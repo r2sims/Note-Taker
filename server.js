@@ -12,4 +12,4 @@ require('./routes/view')(app);
 
 app.listen(PORT, () => {
     console.log(`PORT Listening ON ${PORT}`)
-});
+}); 
