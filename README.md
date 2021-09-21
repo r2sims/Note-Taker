@@ -14,10 +14,6 @@ When the user clicks on an existing note in the list in the left-hand column, th
 When the user clicks on the write icon in the navigation at the top of the page, they're presented with empty fields to enter a new note and the note's text in the right-hand column.
 Mock-Up
 
-
-
-
-
 ## Installation
 
 This app uses an Express.js back end to save and retrieve note data from a JSON file. Node.js, which is a run-time environment which includes everything you need to execute a program written in JavaScript. If haven't downloaded the Node.js source code or a pre-built installer for your platform, you will need to do so using this link.
@@ -30,9 +26,11 @@ Generate Unique ID is used to generate a unique random ID string because each no
 
 To initialize your project and install these required dependencies, open a command prompt at the project's directory and run:
 
-npm init -y  // initialize the project with NPM
-npm install express  // for express dependencies
-npm install generate-unique-id  // for generate unique id dependencies
-Usage
+npm init -y // initialize the project with NPM
+npm install express // for express dependencies
+npm install generate-unique-id // for generate unique id dependencies
+npm start starts the local host
 
-Click here to view deployed application on
+## Demo
+
+https://drive.google.com/file/d/1ahkHvJHZzAAfD42G6zRcTtHK2QUiem40/view
