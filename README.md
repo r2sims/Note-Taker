@@ -18,7 +18,7 @@ Mock-Up
 
 
 
-Installation
+## Installation
 
 This app uses an Express.js back end to save and retrieve note data from a JSON file. Node.js, which is a run-time environment which includes everything you need to execute a program written in JavaScript. If haven't downloaded the Node.js source code or a pre-built installer for your platform, you will need to do so using this link.
 
